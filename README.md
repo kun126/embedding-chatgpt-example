@@ -1,6 +1,11 @@
 # embedding-chatgpt-example
 A project identifying implicit stereotypes in ChatGPT-generated stories for male, female and non-binary genders.
 
+## What's New
+1) It broadens the scope of stereotype analysis to investigate potential stereotypes for **non-binary gender** by using ChatGPT as a competent model for generating comparable responses. 
+2) Noticing that current studies in generated stories are primarily interested in explicit stereotypes, this project focused on the examination of **implicit** ones, which are differences in positive descriptors of equally successful individuals (CEOs). 
+3) By applying a pronoun-wised preprocessing method, this project provides **an extra dimension** of prescriptive stereotypes between **same-gender** characters.
+
 ## Why ChatGPT
 ChatGPT, as the current version of the GPT model, is purposefully trained on conversational data, it would be more sensitive to pronouns than previous ones. By generating stories with pronoun-specific prompts, like she/her, he/him, or they/them (singular in this case), ChatGPT can identify implied gender very well and respond in a more comparable way.
 
@@ -31,7 +36,3 @@ By comparing adjective occurrence and analyzing gender-trait association in the 
 
 *For more theortical info regarding gender and stereotypes, please refer to [this paper](https://icos.umich.edu/sites/default/files/lecturereadinglists/Heilman%20Gender%20Stereotypes%20and%20Workplace%20Bias%20,%202012%20ROB.PDF) or my thesis (the link will be available soon).*
 
-## What's New
-1) It broadens the scope of stereotype analysis to investigate potential stereotypes for non-binary gender by using ChatGPT as a competent model for generating comparable responses. 
-2) Noticing that current studies in generated stories are primarily interested in explicit stereotypes, this project focused on the examination of implicit ones, which are differences in positive descriptors of equally successful individuals (CEOs). 
-3) By applying a pronoun-wised preprocessing method, this project provides an extra dimension of prescriptive stereotypes between same-gender characters.

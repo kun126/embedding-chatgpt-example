@@ -2,8 +2,8 @@
 A project (thesis) identifying implicit stereotypes in ChatGPT-generated stories for male, female and non-binary genders.
 
 ## What's New
-1) It broadens the scope of stereotype analysis to investigate potential stereotypes for **non-binary gender** by using ChatGPT as a competent model for generating comparable responses. 
-2) Noticing that current studies in generated stories are primarily interested in explicit stereotypes, this project focused on the examination of **implicit** ones, which are differences in positive descriptors of equally successful individuals (CEOs). 
+1) This project broadens the scope of stereotype analysis to investigate potential stereotypes for **non-binary gender**. To achieve this, I utilize ChatGPT as a competent model for generating comparable responses.
+2) This project examines implicit stereotypes in generated stories, specifically differences in positive descriptors of equally successful individuals (CEOs). Unlike current studies that primarily focus on explicit stereotypes, this project aim to explore the **subtler, implicit biases** that may exist in these narratives. 
 3) By applying a pronoun-wised preprocessing method, this project provides **an extra dimension** of prescriptive stereotypes between **same-gender** characters.
 
 ## Why ChatGPT

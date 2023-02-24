@@ -1,5 +1,5 @@
 # embedding-chatgpt-example
-A project identifying implicit stereotypes in ChatGPT-generated stories for male, female and non-binary genders.
+A project (thesis) identifying implicit stereotypes in ChatGPT-generated stories for male, female and non-binary genders.
 
 ## What's New
 1) It broadens the scope of stereotype analysis to investigate potential stereotypes for **non-binary gender** by using ChatGPT as a competent model for generating comparable responses. 
@@ -34,5 +34,5 @@ By comparing adjective occurrence and analyzing gender-trait association in the 
 2)	In the context of binary gendered traits, as some of the non-binary people prefer to choose one from femininity and masculinity, is there a particular side of the binary gender stereotypes they are described as? 
 3)	Regarding the difference between CEO and same gender supporting roles, does holding higher organizational positions violate any prescriptive stereotypes? 
 
-*For more theortical info regarding gender and stereotypes, please refer to [this paper](https://icos.umich.edu/sites/default/files/lecturereadinglists/Heilman%20Gender%20Stereotypes%20and%20Workplace%20Bias%20,%202012%20ROB.PDF) or my thesis (the link will be available soon).*
+*For more theortical info regarding gender and stereotypes, please refer to [this paper](https://icos.umich.edu/sites/default/files/lecturereadinglists/Heilman%20Gender%20Stereotypes%20and%20Workplace%20Bias%20,%202012%20ROB.PDF) or my thesis (link will be available soon).*
 

@@ -20,7 +20,7 @@ X takes "she/her" for women, "he/him" for men, and "they/them" for non-binary pe
 - `raw_from_wrapper`: 900 stories collected with the help of [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) *[THANK YOU]*.
 
 #### Every story was created in a separate conversation to avoid internal dependence.
-ChatGPT is sensitive to attempting the same prompt multiple times. Because it remembers what the user has said earlier in the conversation, which will create a series of dependencies if the responses are generated in the same conversation. If the prompt is repeated in a single conversation, the stories either have an excessive pattern, such as sharing the same topic (future or legacy) in the last paragraph, or the most recent response cannot follow the general pattern “Once upon a time with a CEO name” at the beginning paragraph.
+
 
 ## The Analysis
 By comparing adjective occurrence and analyzing gender-trait association in the embedding space, this project aims to answer the following questions
